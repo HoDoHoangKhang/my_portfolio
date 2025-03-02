@@ -21,34 +21,34 @@ const Projects = () => {
                   <ProjectsCard
                       title="Sport Store"
                       category="Website"
-                      image="/image/1.png"
+                      image="./image/1.png"
                   />
                   <ProjectsCard
                       title="Blog Marketing"
                       category="Website"
-                      image="/image/2.png"
+                      image="./image/2.png"
                   />
                   <ProjectsCard
                       title="Portfolio"
                       category="Website"
-                      image="/image/3.png"
+                      image="./image/3.png"
                   />
               </div>
               <div className="px-6">
                   <ProjectsCard
                       title="E-Commerce"
                       category="Website"
-                      image="/image/4.png"
+                      image="./image/4.png"
                   />
                   <ProjectsCard
                       title="Portfolio"
                       category="Website"
-                      image="/image/5.png"
+                      image="./image/5.png"
                   />
                   <ProjectsCard
                       title="ERP Langding"
                       category="Website"
-                      image="/image/6.png"
+                      image="./image/6.png"
                   />
               </div>
           </div>

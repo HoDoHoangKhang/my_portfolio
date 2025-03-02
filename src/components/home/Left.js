@@ -20,7 +20,7 @@ const Left = () => {
           <div className="w-full h-3/5">
               <img
                   className="w-full h-full object-cover rounded-2xl"
-                  src='/image/avt-3d.png'
+                  src='./image/avt-3d.png'
                   loading="priority"
                   alt="bannerImage"
               />
